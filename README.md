@@ -1,1 +1,1 @@
-# eds
+# equity data science
